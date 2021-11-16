@@ -28,5 +28,16 @@
     }
   },
   "author": "Branding Brand Inc.",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nericode/react-native-leanplum-firebase-notifications.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nericode/react-native-leanplum-firebase-notifications/issues"
+  },
+  "homepage": "https://github.com/nericode/react-native-leanplum-firebase-notifications#readme"
 }
