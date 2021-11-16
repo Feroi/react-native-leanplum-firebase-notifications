@@ -1,6 +1,6 @@
 {
-  "name": "@brandingbrand/react-native-push-notification-leanplum",
-  "version": "4.1.0",
+  "name": "react-native-leanplum-firebase-notifications",
+  "version": "4.1.1",
   "description": "React Native Local and Remote Notifications",
   "main": "index.js",
   "scripts": {
@@ -16,18 +16,11 @@
     "apns",
     "firebase"
   ],
-  "bugs": {
-    "url": "https://github.com/zo0r/react-native-push-notification/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
-  },
   "dependencies": {
-    "@react-native-community/push-notification-ios": "^1.2.0"
+    "@react-native-community/push-notification-ios": "^1.8.0"
   },
   "peerDependencies": {
-    "react-native": ">=0.33"
+    "react-native": ">=0.63.4"
   },
   "rnpm": {
     "android": {
