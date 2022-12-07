@@ -1,6 +1,6 @@
 {
   "name": "react-native-leanplum-firebase-notifications",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "React Native Local and Remote Notifications",
   "main": "index.js",
   "scripts": {
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nericode/react-native-leanplum-firebase-notifications.git"
+    "url": "git+https://github.com/Feroi/react-native-leanplum-firebase-notifications.git"
   },
   "bugs": {
-    "url": "https://github.com/nericode/react-native-leanplum-firebase-notifications/issues"
+    "url": "https://github.com/Feroi/react-native-leanplum-firebase-notifications/issues"
   },
-  "homepage": "https://github.com/nericode/react-native-leanplum-firebase-notifications#readme"
+  "homepage": "https://github.com/Feroi/react-native-leanplum-firebase-notifications#readme"
 }
